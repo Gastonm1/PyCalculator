@@ -35,9 +35,10 @@ A simple Python calculator application where users can input two numbers and sel
     The program will display the result.
 
 ## Example
-Enter the first number: 10
-Enter the second number: 5
-Enter the operation (add, subtract, multiply, divide): multiply
+
+Enter the first number: 10 \n
+Enter the second number: 5 \n
+Enter the operation (add, subtract, multiply, divide): multiply \n
 Result: 50
 
 ## Requirements
